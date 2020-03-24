@@ -1,37 +1,47 @@
 # Site Settings
+name: Tushar Sharma
+description: DedSec has given you the truth , do what you will
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://tusharxsharma.github.io/Portfolio"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
-  favicon : assets/favicon.ico
+  title : TusharSharma -Algorithm
+  favicon : assets/faviconn.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/dp.png
+    username : Tushar Sharma
+    description : Do What You Will.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : August 18
+        end : Never Ending
+        experience : BCA
     skills : 
       - skill : HTML5 & CSS
-        value : 85  # Percent value
-        
+        value : 50 # Percent value
+      - skill : Gaming
+        value : 95
+      - skill : C++
+        value : 70
+      - skill : Java
+        value : 50
+      - skill : C
+        value : 60
+
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email:  tusharsharmavj@gmail.com
+    linkedin: https://www.linkedin.com/in/tusharsharmavj/ # Full URL 
+    github: tusharxsharma
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
+    twitter: 
     youtube:
-    facebook:
-    instagram:
+    facebook: 
+    instagram: jaggerxr
 
   # Disqus
   disqus_shortname :
